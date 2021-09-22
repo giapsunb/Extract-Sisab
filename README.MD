@@ -1,6 +1,12 @@
 # Como executar o script:
 
-Primeiramente instalar as dependencias em um ambiente virtual.
+Primeiramente instalar o ambiente virutal e suas dependencias.
+``` sh
+python3 -m ven ven
+```
+```
+source venv/bin/activate 
+```
 
 ``` sh
 pip install -r requirements.txt 
