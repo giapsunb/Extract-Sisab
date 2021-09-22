@@ -2,7 +2,7 @@
 
 Primeiramente instalar o ambiente virutal e suas dependencias.
 ``` sh
-python3 -m ven ven
+python3 -m venv venv
 ```
 ```
 source venv/bin/activate 
